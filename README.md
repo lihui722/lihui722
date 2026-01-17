@@ -6,6 +6,8 @@
 📫 How to reach me: **[Email](lihuiwan05290722@gmail.com)**  
 😄 Pronouns: **She/Her**  
 ⚡ Fun fact: **I'm INFP...**  
+📖 Education: Degree Y1S1
+📚 Course: Graphic Design & Multimedia (Software Engineering)
 
 ---
 
