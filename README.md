@@ -18,7 +18,7 @@
 ---
 
 ### 🌱 Recommended
-- GitHub fofr Technology and Information System Course
+- GitHub for Technology and Information System Course
 - Industry Talk & Industry Visit Participation
 - Design Thinking Workshop
 
