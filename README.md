@@ -14,3 +14,18 @@
 ### 🌱 Skills & Tools
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+
+---
+
+### 🌱 Recommended
+- GitHub fofr Technology and Information System Course
+- Industry Talk & Industry Visit Participation
+- Design Thinking Workshop
+
+---
+
+### 🌱 Additional
+- Industry Talk Report & Poster
+- Industry Visit Video
+- Design Thinking Prototype
+- Course Reflection
